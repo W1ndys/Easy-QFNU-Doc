@@ -12,7 +12,7 @@ export default hopeTheme({
   },
 
   logo: "./ezqf.svg",
-  docsRepo: "W1ndys/Easy-QFNU",
+  docsRepo: "W1ndys/Easy-QFNU-Doc",
   docsDir: "src",
   docsBranch: "main",
   repo: "W1ndys/Easy-QFNU",
