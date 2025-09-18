@@ -33,7 +33,7 @@ export default hopeTheme({
     config: {
       "/EasySelectCourse/CourseSelectionRecommendation/": {
         password: "GoodGoodStudyDayDayUp",
-        hint: "加QQ群【1053432087】获取更多选课资料、选课技巧、选课经验等选课相关内容，密码在QQ群内",
+        hint: "密码在QQ群【1053432087】内，加QQ群获取更多选课资料、选课技巧、选课经验等选课相关内容",
       },
     },
   },
